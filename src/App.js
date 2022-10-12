@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          My awesome GitHub page running using React
+          My awesome GitHub page running using React framework
         </p>
         <a
           className="App-link"
